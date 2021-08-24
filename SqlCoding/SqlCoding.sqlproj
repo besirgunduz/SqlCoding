@@ -60,5 +60,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Customers_Database\Soru_1.sql" />
+    <None Include="Customers_Database\Soru_2.sql" />
   </ItemGroup>
 </Project>
