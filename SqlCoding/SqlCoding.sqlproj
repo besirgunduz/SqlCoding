@@ -68,5 +68,15 @@
     <None Include="Customers_Database\Soru_7.sql" />
     <None Include="Customers_Database\Soru_8.sql" />
     <None Include="Customers_Database\Soru_9.sql" />
+    <None Include="Customers_Database\Soru_10.sql" />
+    <None Include="Customers_Database\Soru_11.sql" />
+    <None Include="Customers_Database\Soru_12.sql" />
+    <None Include="Customers_Database\Soru_13.sql" />
+    <None Include="Customers_Database\Soru_14.sql" />
+    <None Include="Customers_Database\Soru_15.sql" />
+    <None Include="Customers_Database\Soru_16.sql" />
+    <None Include="Customers_Database\Soru_17.sql" />
+    <None Include="Customers_Database\Soru_18.sql" />
+    <None Include="Customers_Database\Soru_19.sql" />
   </ItemGroup>
 </Project>
