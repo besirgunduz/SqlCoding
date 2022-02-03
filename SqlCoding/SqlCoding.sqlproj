@@ -69,5 +69,6 @@
     <None Include="Customers_Database\Soru_8.sql" />
     <None Include="Customers_Database\Soru_9.sql" />
     <None Include="Customers_Database\Soru_15.sql" />
+    <None Include="Customers_Database\CustomersWhoNeverOrder.sql" />
   </ItemGroup>
 </Project>
