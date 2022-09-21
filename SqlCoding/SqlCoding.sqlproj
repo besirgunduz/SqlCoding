@@ -70,6 +70,7 @@
     <None Include="Customers_Database\Soru_9.sql" />
     <None Include="Customers_Database\Soru_15.sql" />
     <None Include="DuplicateEmails.sql" />
+    <None Include="EmployeesEarningMoreThanTheirManagers.sql" />
   </ItemGroup>
   <ItemGroup>
     <None Include="CustomersWhoNeverOrder.sql" />
