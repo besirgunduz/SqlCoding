@@ -71,6 +71,7 @@
     <None Include="Customers_Database\Soru_15.sql" />
     <None Include="DuplicateEmails.sql" />
     <None Include="EmployeesEarningMoreThanTheirManagers.sql" />
+    <None Include="CombineTwoTables.sql" />
   </ItemGroup>
   <ItemGroup>
     <None Include="CustomersWhoNeverOrder.sql" />
