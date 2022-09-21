@@ -69,7 +69,11 @@
     <None Include="Customers_Database\Soru_8.sql" />
     <None Include="Customers_Database\Soru_9.sql" />
     <None Include="Customers_Database\Soru_15.sql" />
-    <None Include="Customers_Database\CustomersWhoNeverOrder.sql" />
-    <None Include="Customers_Database\SecondHighestSalary.sql" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="CustomersWhoNeverOrder.sql" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="SecondHighestSalary.sql" />
   </ItemGroup>
 </Project>
